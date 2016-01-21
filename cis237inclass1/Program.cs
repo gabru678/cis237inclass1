@@ -38,11 +38,11 @@ namespace cis237inclass1
             Employee[] employees = new Employee[10];
 
             //Instantiate some employees
-            employees[0] = new Employee("wellp", "wellp", 3353);
-            employees[1] = new Employee("wellp", "wellp", 335);
-            employees[2] = new Employee("wellp", "wellp", 3778);
-            employees[3] = new Employee("wellp", "wellp", 3533);
-            employees[4] = new Employee("wellp", "wellp", 3353);
+            employees[0] = new Employee("wellp", "wellp", 3353m);
+            employees[1] = new Employee("wellp", "wellp", 335m);
+            employees[2] = new Employee("wellp", "wellp", 3778m);
+            employees[3] = new Employee("wellp", "wellp", 3533m);
+            employees[4] = new Employee("wellp", "wellp", 3353m);
             
 
             //A for each loop that will loop the through each element of the employeees array

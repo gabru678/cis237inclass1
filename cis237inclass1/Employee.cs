@@ -66,7 +66,7 @@ namespace cis237inclass1
             this.lastName = lastName;
             
             //Assign the 'passed by value' by the property
-            this.weeklySalary = WeeklySalary;
+            this.weeklySalary = weeklySalary;
         }
 
         //Default constructor
